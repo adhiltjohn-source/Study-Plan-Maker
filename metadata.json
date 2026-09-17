@@ -1,0 +1,6 @@
+{
+  "name": "Study Plan Maker",
+  "description": "Automated study planner combining calendar, timetable, tasks, feasibility checking, adaptive rescheduling, and daily 20-minute retrieval practice MCQ tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
